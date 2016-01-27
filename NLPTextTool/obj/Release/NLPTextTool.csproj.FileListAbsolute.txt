@@ -1,0 +1,5 @@
+C:\Users\gabriel\Documents\Visual Studio 2015\Projects\NLPTextTool\NLPTextTool\bin\Release\NLPTextTool.exe.config
+C:\Users\gabriel\Documents\Visual Studio 2015\Projects\NLPTextTool\NLPTextTool\bin\Release\NLPTextTool.exe
+C:\Users\gabriel\Documents\Visual Studio 2015\Projects\NLPTextTool\NLPTextTool\bin\Release\NLPTextTool.pdb
+C:\Users\gabriel\Documents\Visual Studio 2015\Projects\NLPTextTool\NLPTextTool\obj\Release\NLPTextTool.exe
+C:\Users\gabriel\Documents\Visual Studio 2015\Projects\NLPTextTool\NLPTextTool\obj\Release\NLPTextTool.pdb
