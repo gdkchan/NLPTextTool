@@ -1,6 +1,0 @@
-c:\users\gabriel\documents\visual studio 2015\Projects\NLPTextTool\NLPTextTool\bin\Debug\NLPTextTool.exe.config
-c:\users\gabriel\documents\visual studio 2015\Projects\NLPTextTool\NLPTextTool\bin\Debug\NLPTextTool.exe
-c:\users\gabriel\documents\visual studio 2015\Projects\NLPTextTool\NLPTextTool\bin\Debug\NLPTextTool.pdb
-c:\users\gabriel\documents\visual studio 2015\Projects\NLPTextTool\NLPTextTool\obj\Debug\NLPTextTool.csprojResolveAssemblyReference.cache
-c:\users\gabriel\documents\visual studio 2015\Projects\NLPTextTool\NLPTextTool\obj\Debug\NLPTextTool.exe
-c:\users\gabriel\documents\visual studio 2015\Projects\NLPTextTool\NLPTextTool\obj\Debug\NLPTextTool.pdb
